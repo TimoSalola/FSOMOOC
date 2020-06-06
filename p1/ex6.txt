@@ -1,4 +1,0 @@
-Selain -> Palvelin: HTTP POST https://fullstack-exampleapp.herokuapp.com/new_note_spa
-//Selain lähettää post komennon porttiin 443, payloadina muistiinpano
-
-//poiketen edeltävästä tapauksesta, nyt sivua ei ladata uudelleen.
